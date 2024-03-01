@@ -1,0 +1,5 @@
+mlx 
+mlx-lm 
+transformers 
+datasets
+jinja2
