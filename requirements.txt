@@ -1,5 +1,7 @@
-mlx 
-mlx-lm 
+torch 
+torchvision 
+torchaudio
 transformers 
+huggingface_hub[cli, hf_transfer]
 datasets
 jinja2
