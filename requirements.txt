@@ -5,3 +5,4 @@ transformers
 huggingface_hub[cli, hf_transfer]
 datasets
 jinja2
+sentencepiece
